@@ -1,0 +1,13 @@
+Average characters per word: 4.30824
+Number of words in the text: 279
+There are 0 words with a length of 1 char.
+There are 0 words with a length of 2 chars.
+There are 0 words with a length of 3 chars.
+There are 0 words with a length of 4 chars.
+There are 0 words with a length of 5 chars.
+There are 0 words with a length of 6 chars.
+There are 0 words with a length of 7 chars.
+There are 0 words with a length of 8 chars.
+There are 0 words with a length of 9 chars.
+There are 0 words with a length of 10 chars
+.There are 0 words with a length of 11 chars.
